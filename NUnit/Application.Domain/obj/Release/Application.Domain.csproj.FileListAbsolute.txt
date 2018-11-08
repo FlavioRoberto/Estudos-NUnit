@@ -1,0 +1,5 @@
+C:\Users\nova\Documents\Estudos-NUnit\NUnit\Application.Domain\bin\Release\Application.Domain.dll
+C:\Users\nova\Documents\Estudos-NUnit\NUnit\Application.Domain\bin\Release\Application.Domain.pdb
+C:\Users\nova\Documents\Estudos-NUnit\NUnit\Application.Domain\obj\Release\Application.Domain.csproj.CoreCompileInputs.cache
+C:\Users\nova\Documents\Estudos-NUnit\NUnit\Application.Domain\obj\Release\Application.Domain.dll
+C:\Users\nova\Documents\Estudos-NUnit\NUnit\Application.Domain\obj\Release\Application.Domain.pdb

@@ -1,0 +1,4 @@
+Referências:
+https://code4coders.wordpress.com/2016/03/15/tdd-test-driven-development-em-net-part-1-principios-basicos-red-refactor-green/
+https://docs.microsoft.com/pt-br/dotnet/core/testing/unit-testing-with-nunit
+http://www.macoratti.net/15/08/net_mock1.htm

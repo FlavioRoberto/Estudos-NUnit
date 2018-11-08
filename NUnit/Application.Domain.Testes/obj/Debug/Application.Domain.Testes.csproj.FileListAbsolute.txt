@@ -1,0 +1,12 @@
+C:\Users\nova\Documents\Estudos-NUnit\NUnit\Application.Domain.Testes\bin\Debug\Application.Domain.Testes.dll
+C:\Users\nova\Documents\Estudos-NUnit\NUnit\Application.Domain.Testes\bin\Debug\Application.Domain.Testes.pdb
+C:\Users\nova\Documents\Estudos-NUnit\NUnit\Application.Domain.Testes\bin\Debug\Application.Domain.dll
+C:\Users\nova\Documents\Estudos-NUnit\NUnit\Application.Domain.Testes\bin\Debug\nunit.framework.dll
+C:\Users\nova\Documents\Estudos-NUnit\NUnit\Application.Domain.Testes\bin\Debug\Application.Domain.pdb
+C:\Users\nova\Documents\Estudos-NUnit\NUnit\Application.Domain.Testes\bin\Debug\nunit.framework.pdb
+C:\Users\nova\Documents\Estudos-NUnit\NUnit\Application.Domain.Testes\bin\Debug\nunit.framework.xml
+C:\Users\nova\Documents\Estudos-NUnit\NUnit\Application.Domain.Testes\obj\Debug\Application.Domain.Testes.csprojAssemblyReference.cache
+C:\Users\nova\Documents\Estudos-NUnit\NUnit\Application.Domain.Testes\obj\Debug\Application.Domain.Testes.csproj.CoreCompileInputs.cache
+C:\Users\nova\Documents\Estudos-NUnit\NUnit\Application.Domain.Testes\obj\Debug\Application.Domain.Testes.csproj.CopyComplete
+C:\Users\nova\Documents\Estudos-NUnit\NUnit\Application.Domain.Testes\obj\Debug\Application.Domain.Testes.dll
+C:\Users\nova\Documents\Estudos-NUnit\NUnit\Application.Domain.Testes\obj\Debug\Application.Domain.Testes.pdb
